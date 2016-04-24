@@ -22,7 +22,7 @@ with open("CHANGES.md") as f:
 
 setup(
     name="pymemfd",
-    version="0.1",
+    version="0.2dev",
     ext_modules=[ext],
     py_modules=["memfd"],
     author="Christian Heimes",

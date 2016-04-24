@@ -1,6 +1,12 @@
 Changelog
 =========
 
+pymemfd 0.2
+-----------
+
+*Release date: ??-???-2016*
+
+
 pymemfd 0.1
 -----------
 
