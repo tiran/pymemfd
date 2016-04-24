@@ -1,0 +1,7 @@
+include setup.py
+include README.md CHANGES.md LICENSE
+include MANIFEST.in
+include setup.py
+include tests.py
+include tox.ini
+include _pymemfd.c clinic/_pymemfd.c.h
