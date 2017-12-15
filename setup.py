@@ -29,7 +29,7 @@ setup(
     author_email="christian@python.org",
     maintainer="Christian Heimes",
     maintainer_email="christian@python.org",
-    url="https://github.org/tiran/pymemfd",
+    url="https://github.com/tiran/pymemfd",
     keywords="memfd memfd_create",
     platforms="Linux",
     license="Apache 2.0",
